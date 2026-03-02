@@ -10,12 +10,12 @@ import Universe from './Universe';
 function PricingPage() {
     return ( 
         <>
-        <Navbar />
+       
         <Hero />
         <LeftSection />
         <RightSection />
         <Universe />
-        <Footer />
+    
         </>
      );
 }
